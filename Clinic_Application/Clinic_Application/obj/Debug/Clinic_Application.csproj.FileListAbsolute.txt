@@ -1,0 +1,12 @@
+F:\Clinic_Application\Clinic_Application\Clinic_Application\bin\Debug\Clinic_Application.exe.config
+F:\Clinic_Application\Clinic_Application\Clinic_Application\bin\Debug\Clinic_Application.exe
+F:\Clinic_Application\Clinic_Application\Clinic_Application\bin\Debug\Clinic_Application.pdb
+F:\Clinic_Application\Clinic_Application\Clinic_Application\obj\Debug\Clinic_Application.csprojAssemblyReference.cache
+F:\Clinic_Application\Clinic_Application\Clinic_Application\obj\Debug\Clinic_Application.FrmForgetPssword.resources
+F:\Clinic_Application\Clinic_Application\Clinic_Application\obj\Debug\Clinic_Application.FrmLogin.resources
+F:\Clinic_Application\Clinic_Application\Clinic_Application\obj\Debug\Clinic_Application.frmNewUser.resources
+F:\Clinic_Application\Clinic_Application\Clinic_Application\obj\Debug\Clinic_Application.Properties.Resources.resources
+F:\Clinic_Application\Clinic_Application\Clinic_Application\obj\Debug\Clinic_Application.csproj.GenerateResource.cache
+F:\Clinic_Application\Clinic_Application\Clinic_Application\obj\Debug\Clinic_Application.csproj.CoreCompileInputs.cache
+F:\Clinic_Application\Clinic_Application\Clinic_Application\obj\Debug\Clinic_Application.exe
+F:\Clinic_Application\Clinic_Application\Clinic_Application\obj\Debug\Clinic_Application.pdb
