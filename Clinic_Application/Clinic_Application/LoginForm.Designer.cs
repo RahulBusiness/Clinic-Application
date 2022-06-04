@@ -44,6 +44,7 @@
             this.txtbxUserName.Name = "txtbxUserName";
             this.txtbxUserName.Size = new System.Drawing.Size(100, 22);
             this.txtbxUserName.TabIndex = 0;
+            this.txtbxUserName.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtbxUserName_KeyDown);
             // 
             // lblUserName
             // 
@@ -78,6 +79,7 @@
             this.btnLogin.TabIndex = 4;
             this.btnLogin.Text = "Login";
             this.btnLogin.UseVisualStyleBackColor = true;
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // btnExit
             // 
